@@ -8,6 +8,7 @@ Plug('m4xshen/autoclose.nvim')
 
 vim.call('plug#end')
 
+-- Colorscheme
 vim.cmd[[colorscheme codedark]]
 
 require("autoclose").setup()
