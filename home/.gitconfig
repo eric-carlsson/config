@@ -4,3 +4,5 @@
 [user]
 	email = 97894605+eric-carlsson@users.noreply.github.com
 	name = Eric Carlsson
+[core]
+	editor = nvim
