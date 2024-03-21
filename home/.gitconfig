@@ -6,3 +6,5 @@
 	name = Eric Carlsson
 [core]
 	editor = nvim
+[init]
+	defaultBranch = main
