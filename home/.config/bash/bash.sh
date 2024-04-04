@@ -1,6 +1,9 @@
 # neovim setup
 alias v="nvim"
 
+# terraform setup
+alias t="terraform"
+
 # kubectl setup
 alias k="kubectl"
 source <(kubectl completion bash)
