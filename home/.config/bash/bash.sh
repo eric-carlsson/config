@@ -8,6 +8,7 @@ alias t="terraform"
 alias k="kubectl"
 source <(kubectl completion bash)
 complete -o default -F __start_kubectl k
+export KUBE_EDITOR="nvim"
 
 # fzf setup
 source /usr/share/doc/fzf/examples/key-bindings.bash
